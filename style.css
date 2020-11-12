@@ -1,0 +1,35 @@
+body {
+    background-image: url("bilder/green_splat.png");
+
+}
+
+
+.logotype {
+    padding: 35px;
+    border: 2px solid black;
+}
+
+nav {
+    display: flex;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+    background-image: url("bilder/green_splat.png");
+}
+
+a {
+    text-decoration: none;
+    color: black;
+    display: block;
+    width: 100px;
+    height: 32px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+    
+}
+
+a:hover {
+    background-color: greenyellow;
+    
+}
