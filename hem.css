@@ -1,0 +1,9 @@
+p{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    padding-top: 25px;
+    padding-right: 25px;
+    padding-left: 25px;
+    color:  rgb(16, 98, 16);
+}
