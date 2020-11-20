@@ -2,7 +2,9 @@ body {
     background-color:rgb(165, 213, 94);
 }
 
-
+.fiskbilden {
+    width: 100%;
+}
 
 h1 {
     text-align: center;
