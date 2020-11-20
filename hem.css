@@ -5,7 +5,7 @@ main{
 p{
     display: flex;
     flex-wrap: wrap;
-    justify-content: center;
+    justify-content: left;
     padding-top: 25px;
     padding-right: 25px;
     padding-left: 25px;
